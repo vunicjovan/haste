@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Haste - A Python Project Generator
 
 A simple Streamlit-based generator for Python projects.
 
