@@ -1,8 +1,8 @@
 # 🎈 Blank app template
 
-A simple Streamlit app template for you to modify!
+A simple Streamlit-based generator for Python projects.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://haste-b3u37m9qgip.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://haste-project-generator-vj.streamlit.app/)
 
 ### How to run it on your own machine
 
